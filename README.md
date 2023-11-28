@@ -14,4 +14,4 @@ Find me on: <a href="https://www.linkedin.com/in/koh-hom/" target="_blank"><img 
 - [Testing](https://github.com/clean99/clean-blog/issues?q=is%3Aopen+is%3Aissue+label%3ATesting)
 - [Blog](https://github.com/clean99/clean-blog/issues?q=is%3Aopen+is%3Aissue+label%3ABlog)
 - [React](https://github.com/clean99/clean-blog/issues?q=is%3Aopen+is%3Aissue+label%3AReact)
-- [Software Engineering](https://github.com/clean99/clean-blog/issues?q=is%3Aopen+is%3Aissue+label%3ASoftwareEngineering)
+- [Software Engineering](https://github.com/clean99/clean-blog/issues?q=is%3Aopen+is%3Aissue+label%3A"Software+Engineering")
