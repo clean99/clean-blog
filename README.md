@@ -10,6 +10,7 @@ Find me on: <a href="https://www.linkedin.com/in/koh-hom/" target="_blank"><img 
 
 - [All articles](https://clean99.github.io)
   - [Frontend](https://github.com/clean99/clean-blog/issues?q=is%3Aopen+is%3Aissue+label%3AFrontend)
+    - [Learning How React Hooks Work by Building a Naive useState #15](https://github.com/clean99/clean-blog/issues/15)
     - [React Server Component Internals(Source Code Review) #14](https://github.com/clean99/clean-blog/issues/14)
     - [Build a Redux from Scratch(Redux Source Code Review) #4](https://github.com/clean99/clean-blog/issues/4)
   - [AIGC](https://github.com/clean99/clean-blog/issues?q=is%3Aopen+is%3Aissue+label%3AAIGC)
