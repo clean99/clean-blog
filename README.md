@@ -19,6 +19,7 @@ Find me on: <a href="https://www.linkedin.com/in/koh-hom/" target="_blank"><img 
     - [Does Github Copilot Worth It? #7](https://github.com/clean99/clean-blog/issues/7)
     - [Crafting GPT-based Customer Support Chatbot from 0 to 1 — Algorithm Portion #6](https://github.com/clean99/clean-blog/issues/6)
   - [Testing](https://github.com/clean99/clean-blog/issues?q=is%3Aopen+is%3Aissue+label%3ATesting)
+    - [[How to Design Test Cases]Chapter 1 -- A Generic Methodology For Testing](https://github.com/clean99/clean-blog/issues/16)
     - [Testing Best Practice Tdd #12](https://github.com/clean99/clean-blog/issues/12)
     - [Some Common Mistakes in React Testing #11](https://github.com/clean99/clean-blog/issues/11)
     - [How Testing Speeds Up Your Development #9](https://github.com/clean99/clean-blog/issues/9)
